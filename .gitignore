@@ -1,0 +1,26 @@
+# Environment variables
+
+.env
+
+# Python cache
+
+**pycache**/
+*.pyc
+
+# Virtual environment
+
+venv/
+.env/
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# Logs
+
+*.log
+
+# Power BI temp
+
+*.tmp
